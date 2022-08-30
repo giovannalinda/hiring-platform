@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Companies should match snapshot 1`] = `
+<section
+  class="sc-bczRLJ kOCEoQ"
+>
+  <div
+    class="sc-dkzDqf jgfvBD"
+  >
+    <img
+      height="37"
+      src="/Shape.svg"
+      width="114"
+    />
+  </div>
+  <div
+    class="sc-gsnTZi hvYpli"
+  >
+    <h1>
+      Used by 10.000+ companies around the world
+    </h1>
+    <ul
+      class="sc-hKMtZM cXNJ"
+    >
+      <li>
+        <img
+          height="40"
+          src="/LogoGoogle.svg"
+          width="150"
+        />
+      </li>
+      <li>
+        <img
+          height="40"
+          src="/LogoUber.svg"
+          width="150"
+        />
+      </li>
+      <li>
+        <img
+          height="40"
+          src="/LogoAmazon.svg"
+          width="150"
+        />
+      </li>
+      <li>
+        <img
+          height="40"
+          src="/LogoFacebook.svg"
+          width="150"
+        />
+      </li>
+      <li>
+        <img
+          height="40"
+          src="/LogoIfood.svg"
+          width="150"
+        />
+      </li>
+    </ul>
+    <p>
+      ...and many more
+    </p>
+  </div>
+</section>
+`;
