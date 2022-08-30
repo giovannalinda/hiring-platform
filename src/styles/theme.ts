@@ -1,6 +1,6 @@
 export const theme = {
   grid: {
-    lg: '150rem',
+    lg: '114rem',
   },
   font: {
     family: 'Dm Sans',
