@@ -1,0 +1,1076 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Apresentation should match snapshot 1`] = `
+<section
+  class="sc-hKMtZM lhCslE"
+  id="home"
+>
+  <div
+    class="sc-eCYdqJ ixwpAC"
+  >
+    <div
+      class="sc-jSMfEi jygWsx"
+    >
+      <div
+        class="sc-iBkjds dhHJXq"
+      >
+        <img
+          height="22"
+          src="/highlight.svg"
+          width="18"
+        />
+      </div>
+      <h1>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          N
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          x
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          g
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          n
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          r
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          a
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          o
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          n
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          h
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          r
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          n
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          g
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          s
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          o
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          l
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          u
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          o
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          n
+        </span>
+        <span
+          class="purple"
+          style="opacity: 0;"
+        >
+          .
+        </span>
+        <br />
+      </h1>
+      <p>
+        <span
+          style="opacity: 0;"
+        >
+          P
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          o
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          w
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          r
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          f
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          u
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          l
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          ,
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          a
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          g
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          l
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          ,
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          a
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          l
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          l
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          -
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          n
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          -
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          o
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          n
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          h
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          r
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          n
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          g
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          o
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          o
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          l
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          f
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          o
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          r
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          y
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          o
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          u
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          r
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          r
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          c
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          r
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          u
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          n
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          g
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          n
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          d
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          s
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          ,
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          b
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          u
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          l
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          w
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          h
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          p
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          r
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          o
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          d
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          u
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          c
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          v
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          y
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          a
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          h
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          a
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          r
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          a
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          n
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          d
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          l
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          o
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          a
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          d
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          d
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          w
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          h
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          f
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          a
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          u
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          r
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          s
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          o
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          h
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          l
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          p
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          y
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          o
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          u
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          h
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          r
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          m
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          o
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          r
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+           
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          f
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          f
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          c
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          t
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          i
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          v
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          e
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          l
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          y
+        </span>
+        <span
+          style="opacity: 0;"
+        >
+          .
+        </span>
+      </p>
+      <div
+        class="sc-bczRLJ icfMzw"
+      >
+        <input
+          class="sc-dkzDqf dpHstQ"
+          placeholder="Your email address..."
+        />
+        <button
+          class="sc-gsnTZi bjHqIv"
+        >
+          Start Free Trial
+        </button>
+      </div>
+      <div
+        class="sc-gKXOVf jxwvrQ"
+      >
+        <span>
+          <svg
+            fill="currentColor"
+            height="12"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 16 16"
+            width="12"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.485 1.431a1.473 1.473 0 0 1 2.104 2.062l-7.84 9.801a1.473 1.473 0 0 1-2.12.04L.431 8.138a1.473 1.473 0 0 1 2.084-2.083l4.111 4.112 6.82-8.69a.486.486 0 0 1 .04-.045z"
+            />
+          </svg>
+          30 days free trial
+        </span>
+        <span>
+          <svg
+            fill="currentColor"
+            height="12"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 16 16"
+            width="12"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M13.485 1.431a1.473 1.473 0 0 1 2.104 2.062l-7.84 9.801a1.473 1.473 0 0 1-2.12.04L.431 8.138a1.473 1.473 0 0 1 2.084-2.083l4.111 4.112 6.82-8.69a.486.486 0 0 1 .04-.045z"
+            />
+          </svg>
+          No credit card required
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-ftvSup eaAlwz"
+    >
+      <img
+        height="517"
+        src="/apresentation.svg"
+        width="530"
+      />
+    </div>
+  </div>
+</section>
+`;
