@@ -11,6 +11,7 @@ import {
   Workflow,
   Customer,
   Banner,
+  Footer,
 } from '~/components'
 
 const Home: NextPage = () => {
@@ -30,6 +31,7 @@ const Home: NextPage = () => {
         <Workflow />
         <Customer />
         <Banner />
+        <Footer />
       </Layout.Content>
     </>
   )
