@@ -12,7 +12,7 @@ export const Container = styled.section`
   }
 
   p {
-    max-width: 40rem;
+    /* max-width: 40rem; */
     font-size: ${theme.font.sizes.paragraph};
     color: ${theme.colors.gray500};
     padding-bottom: 15rem;
@@ -26,6 +26,7 @@ export const Content = styled.div`
 
   @media screen and (max-width: ${theme.breakpoints.tablet}) {
     grid-template-columns: repeat(1, 1fr);
+    text-align: center;
   }
 `
 

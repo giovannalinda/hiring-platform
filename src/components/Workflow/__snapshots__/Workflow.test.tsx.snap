@@ -2,10 +2,10 @@
 
 exports[`Workflow should match snapshot 1`] = `
 <section
-  class="sc-bczRLJ jAmfPV"
+  class="sc-bczRLJ jGLTlh"
 >
   <div
-    class="sc-gsnTZi hpyovI"
+    class="sc-gsnTZi ksbbcJ"
   >
     <div
       class="sc-dkzDqf"
@@ -18,7 +18,7 @@ exports[`Workflow should match snapshot 1`] = `
       </p>
       <img
         height="291"
-        src="/Workflow2.svg"
+        src="/Workflow1.svg"
         width="529"
       />
     </div>
@@ -27,8 +27,8 @@ exports[`Workflow should match snapshot 1`] = `
     >
       <img
         height="291"
-        src="/Workflow1.svg"
-        width="700"
+        src="/Workflow2.svg"
+        width="529"
       />
       <h1
         style="padding-top: 15rem;"

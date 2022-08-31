@@ -14,11 +14,11 @@ export function Workflow() {
             candidates in the shortest time
           </p>
 
-          <Image src={Assets.Workflow2} width={529} height={291} />
+          <Image src={Assets.Workflow1} width={529} height={291} />
         </S.TextGroup>
 
         <S.TextGroup>
-          <Image src={Assets.Workflow1} width={700} height={291} />
+          <Image src={Assets.Workflow2} width={529} height={291} />
           <h1 style={{ paddingTop: '15rem' }}>
             Innovatively built for recruiters and applicants
           </h1>
