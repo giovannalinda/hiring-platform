@@ -10,6 +10,7 @@ import {
   HiringProcess,
   Workflow,
   Customer,
+  Banner,
 } from '~/components'
 
 const Home: NextPage = () => {
@@ -28,6 +29,7 @@ const Home: NextPage = () => {
         <HiringProcess />
         <Workflow />
         <Customer />
+        <Banner />
       </Layout.Content>
     </>
   )
