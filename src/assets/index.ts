@@ -7,4 +7,7 @@ export enum Assets {
   LogoIfood = '/LogoIfood.svg',
   LogoUber = '/LogoUber.svg',
   Shape = '/Shape.svg',
+  Woman = '/Woman.png',
+  WomanWithHeadset = '/WomanWithHeadset.png',
+  ManWithHeadset = '/ManWithHeadset.png',
 }
