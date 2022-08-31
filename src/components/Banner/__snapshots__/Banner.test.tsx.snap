@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Banner should match snapshot 1`] = `
+<section
+  class="sc-hKMtZM cIgXJg"
+>
+  <h1>
+    Register and get 30 days free trial 🤩
+  </h1>
+  <div
+    class="sc-bczRLJ icfMzw"
+  >
+    <input
+      class="sc-dkzDqf dpHstQ"
+      placeholder="Your email address..."
+    />
+    <button
+      class="sc-gsnTZi bjHqIv"
+    >
+      Start Free Trial
+    </button>
+  </div>
+</section>
+`;

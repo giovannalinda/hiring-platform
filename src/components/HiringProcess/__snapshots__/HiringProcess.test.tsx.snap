@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HiringProcess should match snapshot 1`] = `
+<section
+  class="sc-bczRLJ iPZicK"
+>
+  <div
+    class="sc-gsnTZi jnkmHM"
+  >
+    <h1>
+      End-to-end hiring process
+    </h1>
+    <p>
+      Redefining job application process and let you meet the best candidates in the shortest time
+    </p>
+  </div>
+  <div
+    class="sc-dkzDqf lbLRHs"
+  >
+    <img
+      height="449"
+      src="/WomanWithHeadset.png"
+      width="690"
+    />
+    <div>
+      <img
+        height="217"
+        src="/ManWithHeadset.png"
+        width="240"
+      />
+      <img
+        height="217"
+        src="/Woman.png"
+        width="240"
+      />
+    </div>
+  </div>
+</section>
+`;

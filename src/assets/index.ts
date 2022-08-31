@@ -1,0 +1,16 @@
+export enum Assets {
+  Apresentation = '/apresentation.svg',
+  Highlight = '/highlight.svg',
+  LogoAmazon = '/LogoAmazon.svg',
+  LogoFacebook = '/LogoFacebook.svg',
+  LogoGoogle = '/LogoGoogle.svg',
+  LogoIfood = '/LogoIfood.svg',
+  LogoUber = '/LogoUber.svg',
+  Shape = '/Shape.svg',
+  Woman = '/Woman.png',
+  WomanWithHeadset = '/WomanWithHeadset.png',
+  ManWithHeadset = '/ManWithHeadset.png',
+  Workflow1 = '/Workflow1.svg',
+  Workflow2 = '/Workflow2.svg',
+  BusinessWoman = '/BusinessWoman.svg',
+}

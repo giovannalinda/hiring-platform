@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input matches snapshot 1`] = `
+<div
+  class="sc-bczRLJ icfMzw"
+>
+  <input
+    class="sc-dkzDqf dpHstQ"
+  />
+  <button
+    class="sc-gsnTZi bjHqIv"
+  >
+    Start Free Trial
+  </button>
+</div>
+`;

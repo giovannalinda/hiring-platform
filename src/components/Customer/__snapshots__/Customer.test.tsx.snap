@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Customer should match snapshot 1`] = `
+<section
+  class="sc-bczRLJ hdfkzd"
+>
+  <div
+    class="sc-gsnTZi kKPEBo"
+  >
+    <h1>
+      What our beloved customers says
+    </h1>
+    <p>
+      We have over 10.000 companies that use our tools and services, hear their story
+    </p>
+  </div>
+  <div
+    class="sc-dkzDqf kZQgJE"
+  >
+    <img
+      height="387"
+      src="/BusinessWoman.svg"
+      width="393"
+    />
+    <div
+      class="sc-hKMtZM kewfce"
+    >
+      <h2>
+        “Since using Recruiter, our workflow has improved dramatifally, the tool makes HR very agile and lightweight”
+      </h2>
+      <h3>
+        Anna Smith
+      </h3>
+      <p>
+        Head of Human Resources Department
+      </p>
+    </div>
+  </div>
+</section>
+`;
