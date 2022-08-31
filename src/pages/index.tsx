@@ -9,6 +9,7 @@ import {
   Layout,
   HiringProcess,
   Workflow,
+  Customer,
 } from '~/components'
 
 const Home: NextPage = () => {
@@ -26,6 +27,7 @@ const Home: NextPage = () => {
         <Services />
         <HiringProcess />
         <Workflow />
+        <Customer />
       </Layout.Content>
     </>
   )
