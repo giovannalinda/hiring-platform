@@ -1,0 +1,808 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Services should match snapshot 1`] = `
+<section
+  class="sc-bczRLJ eIKoMG"
+>
+  <h1>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      E
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      v
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      r
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      y
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      t
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      h
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      i
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      n
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      g
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      y
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      o
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      u
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      n
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      d
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      t
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      o
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      g
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      r
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      o
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      w
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      y
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      o
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      u
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      r
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      t
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      a
+    </span>
+    <span
+      class="purple"
+      style="opacity: 0;"
+    >
+      m
+    </span>
+  </h1>
+  <p>
+    <span
+      style="opacity: 0;"
+    >
+      R
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      d
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      f
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      i
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      n
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      i
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      n
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      g
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      j
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      o
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      b
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      a
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      p
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      p
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      l
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      i
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      c
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      a
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      t
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      i
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      o
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      n
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      p
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      r
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      o
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      c
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      s
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      s
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      a
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      n
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      d
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      l
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      t
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      y
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      o
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      u
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      m
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      t
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      t
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      h
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      b
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      s
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      t
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      c
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      a
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      n
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      d
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      i
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      d
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      a
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      t
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      s
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      i
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      n
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      t
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      h
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      s
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      h
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      o
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      r
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      t
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      e
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      s
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      t
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+       
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      t
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      i
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      m
+    </span>
+    <span
+      style="opacity: 0;"
+    >
+      e
+    </span>
+  </p>
+  <ul
+    class="sc-gsnTZi cOQQeb"
+  >
+    <div
+      style="opacity: 0; transform: scale(0.5) translateZ(0);"
+    >
+      <li
+        class="sc-dkzDqf LhcBD"
+        style="background: rgb(251, 245, 254);"
+      >
+        <div
+          class="sc-hKMtZM evgfmS"
+          style="background: rgb(109, 57, 250);"
+        >
+          <svg
+            fill="currentColor"
+            height="24"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 16 16"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M6.5 1A1.5 1.5 0 0 0 5 2.5V3H1.5A1.5 1.5 0 0 0 0 4.5v1.384l7.614 2.03a1.5 1.5 0 0 0 .772 0L16 5.884V4.5A1.5 1.5 0 0 0 14.5 3H11v-.5A1.5 1.5 0 0 0 9.5 1h-3zm0 1h3a.5.5 0 0 1 .5.5V3H6v-.5a.5.5 0 0 1 .5-.5z"
+            />
+            <path
+              d="M0 12.5A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5V6.85L8.129 8.947a.5.5 0 0 1-.258 0L0 6.85v5.65z"
+            />
+          </svg>
+        </div>
+        <h2>
+          Entrerprise Job Board
+        </h2>
+        <span>
+          You have a branded job board as a centralized place to display all the open positions at your organization
+        </span>
+      </li>
+    </div>
+    <div
+      style="opacity: 0; transform: scale(0.5) translateZ(0);"
+    >
+      <li
+        class="sc-dkzDqf LhcBD"
+        style="background: rgb(255, 250, 245);"
+      >
+        <div
+          class="sc-hKMtZM evgfmS"
+          style="background: rgb(255, 150, 53);"
+        >
+          <svg
+            fill="currentColor"
+            height="24"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 16 16"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H7zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"
+            />
+            <path
+              d="M5.216 14A2.238 2.238 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.325 6.325 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1h4.216z"
+              fill-rule="evenodd"
+            />
+            <path
+              d="M4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+            />
+          </svg>
+        </div>
+        <h2>
+          Candidate Management
+        </h2>
+        <span>
+          As they apply new candidates automatically show up in the hiring dashboard for efficient review and management
+        </span>
+      </li>
+    </div>
+    <div
+      style="opacity: 0; transform: scale(0.5) translateZ(0);"
+    >
+      <li
+        class="sc-dkzDqf LhcBD"
+        style="background: rgb(245, 255, 247);"
+      >
+        <div
+          class="sc-hKMtZM evgfmS"
+          style="background: rgb(39, 209, 77);"
+        >
+          <svg
+            fill="currentColor"
+            height="24"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 16 16"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M6 3.5A1.5 1.5 0 0 1 7.5 2h1A1.5 1.5 0 0 1 10 3.5v1A1.5 1.5 0 0 1 8.5 6v1H14a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-1 0V8h-5v.5a.5.5 0 0 1-1 0V8h-5v.5a.5.5 0 0 1-1 0v-1A.5.5 0 0 1 2 7h5.5V6A1.5 1.5 0 0 1 6 4.5v-1zm-6 8A1.5 1.5 0 0 1 1.5 10h1A1.5 1.5 0 0 1 4 11.5v1A1.5 1.5 0 0 1 2.5 14h-1A1.5 1.5 0 0 1 0 12.5v-1zm6 0A1.5 1.5 0 0 1 7.5 10h1a1.5 1.5 0 0 1 1.5 1.5v1A1.5 1.5 0 0 1 8.5 14h-1A1.5 1.5 0 0 1 6 12.5v-1zm6 0a1.5 1.5 0 0 1 1.5-1.5h1a1.5 1.5 0 0 1 1.5 1.5v1a1.5 1.5 0 0 1-1.5 1.5h-1a1.5 1.5 0 0 1-1.5-1.5v-1z"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </div>
+        <h2>
+          Team Collaboration
+        </h2>
+        <span>
+          Hiring is a team sport and Recruiter is set up to support it. With no limit on your user-count, you can invite all the help you need
+        </span>
+      </li>
+    </div>
+  </ul>
+</section>
+`;

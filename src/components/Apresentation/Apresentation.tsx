@@ -41,7 +41,6 @@ export function Apresentation() {
                 {char}
               </motion.span>
             ))}
-            <br />
           </h1>
 
           <p>
