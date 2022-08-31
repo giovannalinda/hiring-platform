@@ -12,6 +12,7 @@ import {
   Customer,
   Banner,
   Footer,
+  RightsReserved,
 } from '~/components'
 
 const Home: NextPage = () => {
@@ -33,6 +34,7 @@ const Home: NextPage = () => {
         <Banner />
         <Footer />
       </Layout.Content>
+      <RightsReserved />
     </>
   )
 }

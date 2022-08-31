@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RightsReserved should match snapshot 1`] = `
+<div
+  class="sc-bczRLJ ifbMZa"
+>
+  <span>
+     © 2022 Hiring Platform. All rights reserved
+  </span>
+</div>
+`;
