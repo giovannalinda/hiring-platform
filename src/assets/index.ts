@@ -10,4 +10,6 @@ export enum Assets {
   Woman = '/Woman.png',
   WomanWithHeadset = '/WomanWithHeadset.png',
   ManWithHeadset = '/ManWithHeadset.png',
+  Workflow1 = '/Workflow1.svg',
+  Workflow2 = '/Workflow2.svg',
 }

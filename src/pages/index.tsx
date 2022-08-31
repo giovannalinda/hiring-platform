@@ -8,13 +8,14 @@ import {
   Header,
   Layout,
   HiringProcess,
+  Workflow,
 } from '~/components'
 
 const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Recruiter</title>
+        <title>Hiring Platform</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
@@ -24,6 +25,7 @@ const Home: NextPage = () => {
       <Layout.Content>
         <Services />
         <HiringProcess />
+        <Workflow />
       </Layout.Content>
     </>
   )

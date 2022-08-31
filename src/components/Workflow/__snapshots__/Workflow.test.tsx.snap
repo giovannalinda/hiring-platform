@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Workflow should match snapshot 1`] = `
+<section
+  class="sc-bczRLJ jAmfPV"
+>
+  <div
+    class="sc-gsnTZi hpyovI"
+  >
+    <div
+      class="sc-dkzDqf"
+    >
+      <h1>
+        Interactive human resources workflow
+      </h1>
+      <p>
+        Redefining job application process and let you meet the best candidates in the shortest time
+      </p>
+      <img
+        height="291"
+        src="/Workflow2.svg"
+        width="529"
+      />
+    </div>
+    <div
+      class="sc-dkzDqf"
+    >
+      <img
+        height="291"
+        src="/Workflow1.svg"
+        width="700"
+      />
+      <h1
+        style="padding-top: 15rem;"
+      >
+        Innovatively built for recruiters and applicants
+      </h1>
+      <p>
+        We create engaging experience with our dedicated tool, post an application and let your candidates self-checkout their way towards and interview
+      </p>
+    </div>
+  </div>
+</section>
+`;
